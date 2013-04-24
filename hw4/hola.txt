@@ -1,0 +1,6 @@
+hola.txt
+hw4.pdf
+hw4.rkt
+hw4tests.rkt
+lecture_slides%2Fsection5%2Fsection5sum.pdf
+logo
